@@ -3,7 +3,7 @@
 ## Getting Started
 A sophisticated web platform tailored for food businesses seeking innovative solutions to craft exceptional referral marketing campaigns and loyalty programs. Our platform harnesses the power of cutting-edge data analysis and AI tools to elevate your business strategies.
 
-![Dealicious platform](dealicious_2.png)
+![Dealicious platform](dealicious_1.jfif)
 
 
 ## Key Features
@@ -23,3 +23,5 @@ A sophisticated web platform tailored for food businesses seeking innovative sol
 - **Chart.js:** Integrating Chart.js for data visualization, enabling insightful representations of campaign performance.
 - **Twilio:** Ensuring secure user registration with Twilio's SMS verification service, enhancing user trust.
 - **OpenAI:** Leveraging the capabilities of OpenAI for generating compelling and engaging campaign advertisements.
+
+![Dealicious platform](dealicious_2.png)
