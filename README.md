@@ -3,6 +3,9 @@
 ## Getting Started
 A sophisticated web platform tailored for food businesses seeking innovative solutions to craft exceptional referral marketing campaigns and loyalty programs. Our platform harnesses the power of cutting-edge data analysis and AI tools to elevate your business strategies.
 
+![Dealicious platform](dealicious_2.png)
+
+
 ## Key Features
 - **Referral Marketing Campaigns:** Our platform offers a seamless experience for designing and executing referral marketing campaigns that drive customer engagement and growth.
 - **Loyalty Programs:** Elevate customer loyalty with tailored loyalty programs that keep your customers coming back for more.
